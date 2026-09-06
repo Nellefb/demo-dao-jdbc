@@ -1,0 +1,40 @@
+# Compilados
+*.class
+*.jar
+*.war
+*.ear
+target/
+build/
+bin/
+out/
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# Gradle
+.gradle/
+gradlew
+gradlew.bat
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+*.iws
+
+# Logs
+*.log
+
+# Arquivos de configuração sensíveis
+db.properties
+*.env
+application-local.properties
+
+# SO
+.DS_Store
+Thumbs.db
